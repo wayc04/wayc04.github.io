@@ -20,11 +20,11 @@ redirect_from:
 Wei Zhang(张唯) is an undergraduate student at the College of Computer Science, Sichuan University, expected to graduate in 2026. Under the guidance of [Associate Professor Wei Ju](https://juweipku.github.io), he is conducting interdisciplinary research at the intersection of Graph Neural Networks (GNN), deep clustering methodologies, and AI-driven scientific discovery (AI4SCI).
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TRB 2024!. 
+- *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TRB 2025!. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img src='images/temporal-IRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/temporal-IRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Temporal-IRL: Modeling Port Congestion and Berth Scheduling with Inverse Reinforcement Learning](https://arxiv.org/pdf/2506.19843)
