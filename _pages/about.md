@@ -37,6 +37,7 @@ Yikuan Hu\*, Wei Zhang\*, Xinyu Yang\*, Zixiang Xu\*, Guo Li\*, Nikolay Aristov,
 
 
 # 🎖 Honors and Awards
+- *2025.10*: &nbsp;🎉🎉  Outstanding Graduates of Sichuan University.
 - *2024.12*: &nbsp;🎉🎉  Tencent Scholarship.
 - *2024.4*: &nbsp;🎉🎉 Huawei Smart Pedestal Scholarship.
 - *2023.12*: &nbsp;🎉🎉  Zilizhidong Scholarship.
