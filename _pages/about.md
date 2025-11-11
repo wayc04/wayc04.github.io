@@ -20,6 +20,7 @@ redirect_from:
 Wei Zhang(张唯) is an undergraduate student at the College of Computer Science, Sichuan University, expected to graduate in 2026. Under the guidance of [Associate Professor Wei Ju](https://juweipku.github.io), he is conducting interdisciplinary research at the intersection of Graph Neural Networks (GNN), deep clustering methodologies, and AI-driven scientific discovery (AI4SCI).
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2026!. 
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TRB 2025!. 
 
 # 📝 Publications 
