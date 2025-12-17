@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wei Zhang"
-  avatar           : "images/my_photo.jpg"
+  avatar           : "images/MyPhoto.jpg"
   bio              : "Sichuan University"
   location         : "Chengdu, China"
   employer         :
