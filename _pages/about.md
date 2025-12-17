@@ -24,6 +24,17 @@ Wei Zhang(张唯) is an undergraduate student at the College of Computer Science
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TRB 2025!. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/PREST.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://www.wayc04.com)
+
+Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/temporal-IRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
