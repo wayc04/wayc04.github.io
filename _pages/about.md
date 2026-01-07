@@ -55,7 +55,7 @@ Yikuan Hu\*, Wei Zhang\*, Xinyu Yang\*, Zixiang Xu\*, Guo Li\*, Nikolay Aristov,
 - *2023.12*: &nbsp;🎉🎉  Zilizhidong Scholarship.
 
 # 📖 Educations
-- *2022.09 - 2026.06 (now)*, B.E. Candidate in Computer Science, the College of Computer Science, Sichuan University
+- *2022.09 - 2026.06 (now)*, B.E. Candidate in Computer Science, College of Computer Science, Sichuan University | GPA: 3.89/4.00
 
 # 💻 Internships
 - **Research Intern - Graph Neural Networks (GNNs)**  
