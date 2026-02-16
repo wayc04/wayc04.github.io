@@ -29,7 +29,7 @@ Wei Zhang(张唯) is an undergraduate student at the College of Computer Science
 
 [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://www.wayc04.com)
 
-Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
+*Wei Zhang*, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
@@ -41,7 +41,7 @@ Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
 [Temporal-IRL: Modeling Port Congestion and Berth Scheduling with Inverse Reinforcement Learning](https://arxiv.org/pdf/2506.19843)
 
-Yikuan Hu\*, Wei Zhang\*, Xinyu Yang\*, Zixiang Xu\*, Guo Li\*, Nikolay Aristov, Mingjie Tang, Elenna R Dugundji(*: Equal contribution)
+Yikuan Hu\*, *Wei Zhang*\*, Xinyu Yang\*, Zixiang Xu\*, Guo Li\*, Nikolay Aristov, Mingjie Tang, Elenna R Dugundji(*: Equal contribution)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
